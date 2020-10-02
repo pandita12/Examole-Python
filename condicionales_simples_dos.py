@@ -4,6 +4,7 @@ cedula = int(input("Ingrese su cedula de identidad:? "))
 nombre = input(" Ingrese su nombre?: ")
 apellido = input(" Ingrese su apellido?: ")
 
+print ("Por favor evaluate numericamente a escala de (1 -- 10)")
 
 matematicas = int(input( nombre + " cual es tu calificacion en matematicas?: " ))
 quimica = int(input(nombre + " cual es tu calificacion en quimica?: " ))

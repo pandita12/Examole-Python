@@ -1,1 +1,1 @@
-README.
+actualizacion de videos volver a practicar desde lo basico a lo avanzado para refescar memoria 
